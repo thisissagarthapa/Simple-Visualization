@@ -33,8 +33,8 @@ The project includes a bar plot visualizing the net worth of these individuals o
 
 ### Screenshots
 
-![richPerson](https://github.com/user-attachments/assets/02bcb02d-f637-45f5-94b4-630061e4acff)
 
+![Screenshot (126)](https://github.com/user-attachments/assets/52537b6b-297d-4c81-bbea-42e3c154ae28)
 
 
 
